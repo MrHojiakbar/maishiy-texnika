@@ -6,4 +6,4 @@ const productModel=`
         count SMALLINT NOT NULL DEFAULT 1
     );
 `;
-module.exports=productModel;
+module.exports=productModel; 
